@@ -1,8 +1,4 @@
-# education
 
-A new Flutter project.
-
-## Getting Started
 Trang Chu
 ![home](https://github.com/NgocAn24/English_app/assets/147326923/a72b8512-1cee-4793-ab46-f0460b65f806)
 ![home2](https://github.com/NgocAn24/English_app/assets/147326923/58314fff-e3c1-41e7-9cf5-37a7a3b60646)
